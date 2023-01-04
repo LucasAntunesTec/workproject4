@@ -1,0 +1,25 @@
+
+.image{
+    position: absolute;
+    width: 720px;
+    height: 840px;
+    left: 728px;
+    top: 0px;
+    
+    background: url(image.png);
+    opacity: 1;
+
+}
+
+.image1{
+    position: absolute;
+    width: 694px;
+    height: 225px;
+    left: 2px;
+    top: 2px;
+    
+    background: url(image1.png);
+    opacity: 1;
+
+}
+
